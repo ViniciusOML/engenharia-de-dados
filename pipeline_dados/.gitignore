@@ -37,6 +37,6 @@ Thumbs.db
 #AMBIENTE VENV#
 ###
 
-/Users/vinioml/Google Drive/Meu Drive/Projetos/Cursos/engenharia-de-dados/pipeline_dados/venv
+.venv/
 
-pipeline_dados/venv
+
